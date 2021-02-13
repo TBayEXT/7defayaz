@@ -1,4 +1,3 @@
-#-*-coding:utf8;-*-
-#qpy:console
-
-print "This is console module"
+metin=input('Metni Girin : ')
+for x in range(7):
+      print(metin)
