@@ -1,3 +1,3 @@
 metin=input('Metni Girin : ')
-for x in range(7):
+for x in range(10):
       print(metin)
